@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #ce8c74;
+}
+
+ul li{
+list-style-type: none;
+}
+
+.button{
+  display: flex;
+  justify-content: space-around;
+}
+
+img{
+  width: 50%;
+}
